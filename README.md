@@ -1,4 +1,6 @@
 Sales Insights Project:
+
+
 Overview-
 This project focuses on generating valuable insights from a Sales Dataset stored in SQL using Power BI for data visualization. The objective is to help businesses make data-driven decisions by analyzing key sales performance metrics.
 
